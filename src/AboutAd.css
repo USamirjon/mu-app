@@ -1,0 +1,81 @@
+/* AboutAd.css */
+
+/* Стили для контейнера карусели */
+.carousel-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+/* Стили для изображений карусели */
+.carousel-image {
+    width: 100%;
+    height: 500px; /* Высота карусели */
+    object-fit: contain; /* Сохранение пропорций */
+    background-color: #f8f9fa;
+}
+
+/* Индикаторы (точки) */
+.carousel-indicators button {
+    background-color: #000;
+}
+
+/* Стили для кнопок навигации */
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.carousel-control-prev {
+    left: 15px;
+}
+
+.carousel-control-next {
+    right: 15px;
+}
+
+/* Иконки для кнопок навигации */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 20px;
+    height: 20px;
+    filter: invert(1); /* Белые иконки */
+}
+
+/* Стиль для текста */
+.carousel-text {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    margin-top: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-text p {
+    margin-bottom: 15px;
+}
+
+.carousel-text h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}

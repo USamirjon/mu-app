@@ -1,0 +1,1 @@
+export const ApiAddress = "localhost:5650" + "";
