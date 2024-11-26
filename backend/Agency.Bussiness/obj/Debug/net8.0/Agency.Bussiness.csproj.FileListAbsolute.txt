@@ -1,0 +1,32 @@
+G:\All Projects\C#\agency\Agency.Bussiness\bin\Debug\net8.0\Agency.Bussiness.deps.json
+G:\All Projects\C#\agency\Agency.Bussiness\bin\Debug\net8.0\Agency.Bussiness.dll
+G:\All Projects\C#\agency\Agency.Bussiness\bin\Debug\net8.0\Agency.Bussiness.pdb
+G:\All Projects\C#\agency\Agency.Bussiness\bin\Debug\net8.0\Agency.DataAccess.dll
+G:\All Projects\C#\agency\Agency.Bussiness\bin\Debug\net8.0\Agency.DataAccess.pdb
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.csproj.AssemblyReference.cache
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.AssemblyInfoInputs.cache
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.AssemblyInfo.cs
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.csproj.CoreCompileInputs.cache
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.sourcelink.json
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.B.F5655B4B.Up2Date
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.dll
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\refint\Agency.Bussiness.dll
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.pdb
+G:\All Projects\C#\agency\Agency.Bussiness\obj\Debug\net8.0\ref\Agency.Bussiness.dll
+E:\my-app\backend\Agency.Bussiness\bin\Debug\net8.0\Agency.Bussiness.deps.json
+E:\my-app\backend\Agency.Bussiness\bin\Debug\net8.0\Agency.Bussiness.dll
+E:\my-app\backend\Agency.Bussiness\bin\Debug\net8.0\Agency.Bussiness.pdb
+E:\my-app\backend\Agency.Bussiness\bin\Debug\net8.0\Agency.DataAccess.dll
+E:\my-app\backend\Agency.Bussiness\bin\Debug\net8.0\Agency.DataAccess.pdb
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.csproj.AssemblyReference.cache
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.AssemblyInfoInputs.cache
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.AssemblyInfo.cs
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.csproj.CoreCompileInputs.cache
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.sourcelink.json
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.B.F5655B4B.Up2Date
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.dll
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\refint\Agency.Bussiness.dll
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\Agency.Bussiness.pdb
+E:\my-app\backend\Agency.Bussiness\obj\Debug\net8.0\ref\Agency.Bussiness.dll

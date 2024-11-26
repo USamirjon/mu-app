@@ -1,0 +1,30 @@
+G:\All Projects\C#\agency\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.deps.json
+G:\All Projects\C#\agency\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.dll
+G:\All Projects\C#\agency\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.pdb
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.csproj.AssemblyReference.cache
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.AssemblyInfoInputs.cache
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.AssemblyInfo.cs
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.csproj.CoreCompileInputs.cache
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.dll
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\refint\Agency.DataAccess.dll
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.pdb
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\ref\Agency.DataAccess.dll
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.sourcelink.json
+G:\All Projects\C#\agency\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.runtimeconfig.json
+G:\All Projects\C#\agency\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.genruntimeconfig.cache
+E:\my-app\backend\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.deps.json
+E:\my-app\backend\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.runtimeconfig.json
+E:\my-app\backend\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.dll
+E:\my-app\backend\Agency.DataAccess\bin\Debug\net8.0\Agency.DataAccess.pdb
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.csproj.AssemblyReference.cache
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.AssemblyInfoInputs.cache
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.AssemblyInfo.cs
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.csproj.CoreCompileInputs.cache
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.sourcelink.json
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.dll
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\refint\Agency.DataAccess.dll
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.pdb
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\Agency.DataAccess.genruntimeconfig.cache
+E:\my-app\backend\Agency.DataAccess\obj\Debug\net8.0\ref\Agency.DataAccess.dll

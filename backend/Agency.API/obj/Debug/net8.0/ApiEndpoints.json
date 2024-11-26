@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Agency.API.Controlles.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Agency.DataAccess.CreateModels.UsersDto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Agency.API.Controlles.AuthController",
+    "Method": "RegisterAgent",
+    "RelativePath": "api/Auth/register/agent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Agency.DataAccess.CreateModels.UsersDto.AgentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Agency.API.Controlles.AuthController",
+    "Method": "RegisterClient",
+    "RelativePath": "api/Auth/register/client",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Agency.DataAccess.CreateModels.UsersDto.ClientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

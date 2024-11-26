@@ -1,0 +1,258 @@
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\appsettings.Development.json
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\appsettings.json
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.API.exe
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.API.deps.json
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.API.runtimeconfig.json
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.API.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.API.pdb
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Npgsql.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.DataAccess.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.DataAccess.pdb
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.csproj.AssemblyReference.cache
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.AssemblyInfoInputs.cache
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.AssemblyInfo.cs
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.csproj.CoreCompileInputs.cache
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.MvcApplicationPartsAssemblyInfo.cache
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets.build.json
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets.development.json
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.Agency.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Agency.API.props
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Agency.API.props
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Agency.API.props
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\scopedcss\bundle\Agency.API.styles.css
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.csproj.Up2Date
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.dll
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\refint\Agency.API.dll
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.pdb
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.genruntimeconfig.cache
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\ref\Agency.API.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.Bussiness.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Agency.Bussiness.pdb
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.MvcApplicationPartsAssemblyInfo.cs
+G:\All Projects\C#\agency\Agency.API\obj\Debug\net8.0\Agency.API.sourcelink.json
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Humanizer.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.CodeDom.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Projects\C#\agency\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\appsettings.Development.json
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\appsettings.json
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.API.exe
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.API.deps.json
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.API.runtimeconfig.json
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.API.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.API.pdb
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Humanizer.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Npgsql.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.Bussiness.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.DataAccess.dll
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.Bussiness.pdb
+E:\my-app\backend\Agency.API\bin\Debug\net8.0\Agency.DataAccess.pdb
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.csproj.AssemblyReference.cache
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.AssemblyInfoInputs.cache
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.AssemblyInfo.cs
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.csproj.CoreCompileInputs.cache
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.MvcApplicationPartsAssemblyInfo.cs
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.MvcApplicationPartsAssemblyInfo.cache
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.sourcelink.json
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.Agency.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Agency.API.props
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Agency.API.props
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Agency.API.props
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\scopedcss\bundle\Agency.API.styles.css
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.csproj.Up2Date
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.dll
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\refint\Agency.API.dll
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.pdb
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\Agency.API.genruntimeconfig.cache
+E:\my-app\backend\Agency.API\obj\Debug\net8.0\ref\Agency.API.dll
