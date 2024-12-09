@@ -1,28 +1,40 @@
-// Header.js
+import React from "react";
+import { useAuth, handleLogout } from "./signup";
+import './header.css';
+
 function Header() {
+    const isAuthenticated = useAuth();
+
     return (
-        <div style={{background : "black"}}>
-            <br/>
+        <header id="header" className="header d-flex align-items-center sticky-top bg-black py-3">
+            <div className="container-fluid d-flex align-items-center justify-content-between">
+                {/* Логотип */}
+                <a href="/" className="logo d-flex align-items-center text-white text-decoration-none me-auto">
+                    <h1 className="sitename m-0 ms-2">Ringmaster</h1>
+                </a>
 
-            <div className="container d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-                
-                <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-                    <li><a href="/" className="nav-link px-2 text-secondary">Home</a></li>
-                </ul>
-
-                <form className="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
-                    <a href="Filter" type="search" className="button btn text-decoration-underline btn-outline-light">Filter</a>
-                </form>
-
-                <div className="text-end">
-                    <a href="Login" className="btn btn-outline-light me-2">Login</a>
-                    <a href="Signup" className="btn btn-warning">Sign-up</a>
+                {/* Кнопка сортировки */}
+                <div className="d-flex align-items-center ms-3">
+                    <a href="/filter" className="btn btn-outline-light text-white">Sort</a>
                 </div>
+
+                {/* Блок авторизации */}
+                <div className="text-end ms-3">
+                    {isAuthenticated ? (
+                        <>
+                            <button className="btn btn-danger me-2" onClick={handleLogout}>Logout</button>
+                            <a href="/profile" className="btn btn-outline-light">Profile</a>
+                        </>
+                    ) : (
+                        <>
+                            <a href="/login" className="btn btn-outline-light me-2">Login</a>
+                            <a href="/signup" className="btn btn-warning">Sign-up</a>
+                        </>
+                    )}
+                </div>
+
             </div>
-            <br/>
-
-        </div>
-
+        </header>
     );
 }
 

@@ -1,6 +1,88 @@
-.App {
-  text-align: center;
+/* Анимация кнопки */
+.btn-animate {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  padding: 10px 20px; /* Добавим немного отступов */
+  font-size: 16px; /* Стандартный размер шрифта */
+  border-radius: 5px; /* Немного закруглим углы */
 }
-h1 {
-  color: blue;
+
+.btn-animate::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 300%;
+  height: 300%;
+  background: white;
+  transition: all 0.4s ease;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+}
+
+.btn-animate:hover {
+  color: #fff;
+  background-color: gray;
+  transform: scale(1.1); /* Увеличиваем кнопку при наведении */
+}
+
+.btn-animate:hover::before {
+  width: 0;
+  height: 0;
+  opacity: 1;
+}
+/* Анимация плавного появления карточки с задержкой */
+.card {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  animation: fadeInUp 0.5s ease-out forwards;
+}
+
+/* Определим анимацию */
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Устанавливаем задержку для каждой карточки */
+.card:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.card:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.card:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+.card:nth-child(4) {
+  animation-delay: 0.4s;
+}
+
+.card:nth-child(5) {
+  animation-delay: 0.5s;
+}
+
+/* Вы можете добавлять задержку для большего количества карточек */
+/* CreateApartment.css */
+.custom-input {
+  border-color: #007bff;  /* Синие рамки */
+  background-color: #f4f4f4;  /* Легкий серый фон */
+}
+
+.custom-input:focus {
+  border-color: #0056b3;  /* Синяя рамка при фокусе */
+  background-color: #e9ecef;  /* Более светлый серый фон при фокусе */
 }

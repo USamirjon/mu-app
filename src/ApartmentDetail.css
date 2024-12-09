@@ -1,0 +1,89 @@
+/* Анимация для плавного появления */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Применяем анимацию ко всем элементам текста */
+.carousel-text {
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+    animation-delay: 0.2s; /* Задержка появления текста */
+}
+
+/* Применяем анимацию к карусели */
+.carousel-container {
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+    animation-delay: 1s; /* Карусель появляется позже */
+}
+
+/* Дополнительная настройка для других элементов */
+.carousel-indicators button,
+.carousel-control-prev,
+.carousel-control-next {
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+    animation-delay: 2s; /* Эти элементы появляются позже */
+}
+
+/* Стиль для заглушки изображения */
+.image-placeholder {
+    background-color: #ddd; /* Слегка светлый серый фон */
+    height: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333; /* Темный цвет для текста */
+    font-size: 18px; /* Уменьшенный размер шрифта для текста */
+    text-align: center;
+    font-weight: bold; /* Жирное начертание текста */
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+    animation-delay: 1.8s; /* Заглушка появляется после карусели */
+    border-radius: 8px; /* Скругление углов */
+    border: 1px solid #ccc; /* Легкая рамка для отделения */
+}
+
+/* Дополнительные стили для контейнера карусели, если требуется */
+.carousel-item {
+    transition: opacity 1s ease-out;
+}
+
+/* Обновление стилей для кнопок и индикаторов */
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: rgba(0, 0, 0, 0.3); /* Чуть затемненный фон */
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: white; /* Белый цвет иконок */
+}
+
+/* Индикаторы карусели */
+.carousel-indicators button {
+    background-color: #bbb; /* Серые точки */
+}
+
+.carousel-indicators .active {
+    background-color: #717171; /* Активная точка темнее */
+}
+/* CreateApartment.css */
+.custom-input {
+    border-color: #007bff;  /* Синие рамки */
+    background-color: #f4f4f4;  /* Легкий серый фон */
+}
+
+.custom-input:focus {
+    border-color: #0056b3;  /* Синяя рамка при фокусе */
+    background-color: #e9ecef;  /* Более светлый серый фон при фокусе */
+}
